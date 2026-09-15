@@ -1,9 +1,9 @@
 {
-  "built": "2026-09-14T09:48:46+00:00",
-  "data_date": "2026-09-14",
-  "russian_control_km2": 117117,
-  "pct_of_ukraine": 19.4,
-  "frames": 56,
+  "built": "2026-09-15T09:23:21+00:00",
+  "data_date": "2026-09-15",
+  "russian_control_km2": 117119,
+  "pct_of_ukraine": 19.41,
+  "frames": 57,
   "sources": [
     "DeepStateMap.Live via cyterat/deepstate-map-data",
     "ISW / Critical Threats Project daily assessments",
