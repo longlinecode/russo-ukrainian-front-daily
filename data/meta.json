@@ -1,8 +1,8 @@
 {
-  "built": "2026-10-13T11:43:02+00:00",
-  "data_date": "2026-10-13",
-  "russian_control_km2": 117154,
-  "pct_of_ukraine": 19.41,
+  "built": "2026-10-14T09:28:34+00:00",
+  "data_date": "2026-10-14",
+  "russian_control_km2": 117086,
+  "pct_of_ukraine": 19.4,
   "frames": 59,
   "sources": [
     "DeepStateMap.Live via cyterat/deepstate-map-data",
